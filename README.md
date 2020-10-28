@@ -1,3 +1,16 @@
+# Project Name: material-ui-assignment
+## Project Detail:
+
+**•	It’s a complete responsive static website designed with HTML,CSS, Bootstrap, React JS , React Router
+  •	When users visit the post detail then they can see this post detail with post comments.
+  •	Here showed each post have 5 comments randomly.**
+
+### Tools & Technologies: HTML, CSS, Bootstrap, React JS , React Router, Material UI etc.
+
+[Linkedin Link](https://www.linkedin.com/in/md-mahmudur-rahman-8125991ba/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
